@@ -7,7 +7,6 @@ import javax.persistence.*;
 import java.util.List;
 
 @Entity
-@Table(name = "customers")
 @Data
 @NoArgsConstructor
 public class Customer {
